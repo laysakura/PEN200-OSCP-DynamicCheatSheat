@@ -1,6 +1,6 @@
 # PEN200-OSCP-DynamicCheatSheat
 
-A dynamic cheat sheet for PEN-200 and OSCP made with Google Sheets.
+A dynamic cheat sheet for PEN-200, OSCP, and other pentests made with Google Sheets.
 
 ## Get It
 
